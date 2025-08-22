@@ -202,6 +202,7 @@ var cnames_active = {
   "apicluster": "ramsunvtech.github.io/apicluster", // noCF? (don´t add this in a new PR)
   "apilyertia": "apilyertia.github.io",
   "aping": "johnnythetank.github.io/apiNG", // noCF? (don´t add this in a new PR)
+  "apiflux":"Sujal-Git.github.io/apiflux"
   "aplayer": "diygod.github.io/APlayer",
   "aplayer-react": "cname.vercel-dns.com", // noCF
   "apod": "marcosflorencio.github.io/angular-apod", // noCF? (don´t add this in a new PR)
